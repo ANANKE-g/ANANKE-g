@@ -681,7 +681,7 @@ module.exports = {
             // "/bg/404901.png",
             // "/bg/734386.png",
             // "/bg/5332.png",
-            '/bg/1111111111111.jpg',
+            '/bg/11.jpg',
             // '/bg/3.jpg',
             // '/bg/4.jpg',
             // '/bg/5.jpg',
@@ -703,7 +703,7 @@ module.exports = {
 
         //手机端首页背景图片
         homeWpsMobile: [
-            '/bg/121111111111.jpg',
+            '/bg/12.jpg',
             // '/bg/5.jpg',
         ],
 
