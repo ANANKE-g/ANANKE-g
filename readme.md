@@ -11,7 +11,7 @@
 
 ---
 
-[Aurora](https://www.npmjs.com/package/vuepress-theme-aurora)是一款基于**Vuepress2**的博客主题，将本地**Markdown**文件解析成静态html页面，作为博客文章。搭配**说说**，**时间轴**，**文章分类**，**评论**，**友情链接**，**相册**，**音乐播放器**等特色功能，给您不一样的使用体验。
+[Aurora](https://www.npmjs.com/package/vuepress-theme-aurora)是一款基于**Vuepress2**的博客主题，将本地**Markdown**文件解析成静态html页面，作为博客文章。搭配**说说**，**时间111轴**，**文章分类**，**评论**，**友情链接**，**相册**，**音乐播放器**等特色功能，给您不一样的使用体验。
 
 - 🏆**100%自定义**
 - 🌈**简洁，漂亮**
